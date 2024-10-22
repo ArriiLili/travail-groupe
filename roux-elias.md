@@ -1,3 +1,5 @@
-bonjour
-comment vas-tu
-au revoir
+Bonjour.
+Comment vas-tu ?
+Au revoir.
+
+Phrase ajoutée
